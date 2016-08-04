@@ -1,4 +1,3 @@
-layout_spectrum: 0.9105294388718903
 typography_spectrum: 0.7547956285998225
 color:
   brandStrength: 0.13690294092521071
@@ -11,4 +10,13 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
+layout_spectrum: 0.9105294388718903
+author:
+  name: Ben Kolb
+  email: benk04@vt.edu
+  url: Equitrex.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/80ba251f-df1b-4ca8-ac5b-f6edf9bfdd6b.png
 name: Equitrex
+title: Balance. Progress. Purpose.
+description: Balance. Progress. Purpose.
