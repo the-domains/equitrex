@@ -1,0 +1,14 @@
+layout_spectrum: 0.9105294388718903
+typography_spectrum: 0.7547956285998225
+color:
+  brandStrength: 0.13690294092521071
+  lightness: 0.548111051088199
+  saturation: 0.4783033945132047
+  rhythmicContrast: 0.9358962767291814
+  brandColors:
+    - '#10222B'
+    - '#95AB63'
+    - '#BDD684'
+    - '#E2F0D6'
+    - '#F6FFE0'
+name: Equitrex
